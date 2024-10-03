@@ -30,6 +30,39 @@ h2 {
     padding-bottom: 5px;
 }
 
+nav {
+    background-color: #d7ccc8;
+    padding: 10px 0;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: float-center;
+    justify-content: center;
+}
+
+#nav ul li {
+    margin: 0 15px;
+}
+
+#nav ul li a {
+    text-decoration: none;
+    font-size: 1.2em;
+    color: #5d4037;
+    padding: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+#nav ul li a:hover {
+    background-color: #bcaaa4;
+    color: #fff;
+}
+
 ul {
     list-style-type: none;
     padding: 0;
