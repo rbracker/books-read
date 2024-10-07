@@ -9,7 +9,7 @@ Thank you in advance for your time and thoughtfulness!
 
 ## Website Preview
 
-Below is a video preview showcasing the design and functionality of my [**Books I Have Read in 2024**](yourwebsiteurl.com) website:
+Below is a video preview showcasing the design and functionality of my [**Books I Have Read in 2024**]([yourwebsiteurl.com](https://rbracker.github.io/books-read/) website:
 
 ![Website Preview](assets/images/booksread.gif)
 
@@ -22,7 +22,7 @@ The website features a cozy, brown-toned theme, offering a visually pleasing and
 - **Custom Theme**: A cozy theme that enhances the reading experience.
 
 ## How to Use
-1. Visit the [Books I Have Read in 2024](yourwebsiteurl.com).
+1. Visit the [Books I Have Read in 2024]([yourwebsiteurl.com](https://rbracker.github.io/books-read/).
 2. Navigate through the genres using the menu at the top.
 3. Click on any book title or cover to view its purchase link.
 4. Enjoy exploring the curated list of books!
